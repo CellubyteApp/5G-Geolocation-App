@@ -1,5 +1,5 @@
 # 5G-Geolocation-App
-Cellubyte is an Android and iOS app which enables users worldwide to pin point target locations with 5G Coverage on 5G, 4G and 3G smartphones.
+Cellubyte is an Android and iOS app which enables users worldwide to pinpoint target locations with 5G Coverage on 5G, 4G and 3G smartphones.
 Our mission is to provide precise location data for users to discover or search for high frequency signals of 5G Coverage. 
 This would enable people experience lower latency and faster data rates which 5G provides. Here you can find the Privacy Policy for December 2020.
 
